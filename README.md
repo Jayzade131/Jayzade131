@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jayzade131" alt="jayzade131" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/jayzade" target="blank"><img src="https://img.shields.io/twitter/follow/jayzade?logo=twitter&style=for-the-badge" alt="jayzade" /></a> </p>
+<p align="left"> <a href="https://twitter.com/jay_zade" target="blank"><img src="https://img.shields.io/twitter/follow/jay_zade?logo=twitter&style=for-the-badge" alt="jay_zade" /></a> </p>
 
 - 🔭 I’m currently working on [JSP & Servlet](git@github.com:Jayzade131/Basic-Banking-System-The-Spark-Foundation.git)
 
@@ -21,7 +21,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/jayzade" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jayzade" height="30" width="40" /></a>
+<a href="https://twitter.com/jay_zade" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jay_zade" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/jaykumar01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jaykumar01" height="30" width="40" /></a>
 <a href="https://instagram.com/slayerrr_____" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="slayerrr_____" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/jaykumarzade" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="jaykumarzade" height="30" width="40" /></a>
