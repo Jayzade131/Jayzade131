@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on [JSP & Servlet](git@github.com:Jayzade131/Basic-Banking-System-The-Spark-Foundation.git)
 
-- 🌱 I’m currently learning **Spring Boot**
+- 🌱 I’m currently learning **JavaScript**
 
 - 👯 I’m looking to collaborate on **Open Source Projects**
 
