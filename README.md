@@ -35,7 +35,7 @@
 <div>
 <p align= "center"><img src="https://github-readme-stats.vercel.app/api?username=jayzade131&show_icons=true&locale=en" alt="jayzade131" /></p><br>
 <p align= "center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=jayzade131&show_icons=true&locale=en&layout=compact" alt="jayzade131" /></p></div>
-<br/><br/>
+<br/>
 <!--
 <a href="https://github.com/Jayzade131/github-readme-activity-graph"><img alt="Jaykumar zade's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Jayzade131&bg_color=FFFFFF&color=118DFF&line=118DFF&point=118DFF&hide_border=true" /></a>
 -->
