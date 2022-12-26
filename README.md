@@ -1,6 +1,12 @@
-<h1 align="center">Hi 👋,  I'm Jaykumar zade</h1>
 
-<h3 align="center">A passionate web developer from India</h3>
+<h1 align="center">Hi , I'm Jaykumar zade <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<div align= "center">
+<a href="#" align="center">
+<img src="https://readme-typing-svg.herokuapp.com?color=FFF&center=true&lines=Passionate+web+developer+from+India"></img>
+</a>
+     </div>
+     
+<br/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jayzade131&label=Profile%20views&color=0e75b6&style=flat" alt="jayzade131" /></p>
 <!--
