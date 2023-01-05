@@ -9,7 +9,7 @@
 <br/>
 
 <div>
-     <img align ="right" alt="developer" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/5403918/media/d5dccb5d5818cba2c8fa0cb15fb578b3.gif" alt="jaymadharchodh">
+     <img align ="right" alt="developer" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/5403918/media/d5dccb5d5818cba2c8fa0cb15fb578b3.gif" alt="jay">
      
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jayzade131&label=Profile%20views&color=0e75b6&style=flat" alt="jayzade131" /></p>
 <!--
@@ -26,7 +26,7 @@
 
 - 📫 How to reach me **jaykumarzade@gmail.com**
 
-- 📄 Know about my experiences [Here](https://drive.google.com/file/d/1FqMi4acKpzP7BnpRRxeZLJUtg6zStRFO/view?usp=share_link)
+- 📄 Know about my experiences [Here](https://drive.google.com/file/d/1AN_DLqTViPTVU3NGMN4yoWdKVe-n0Lj6/view?usp=share_link)
 
 - ⚡ Fun fact **I am Gamer**
 
