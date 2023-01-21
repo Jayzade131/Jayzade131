@@ -28,7 +28,7 @@
 
 - 📄 Know about my experiences [Here](https://drive.google.com/file/d/1AN_DLqTViPTVU3NGMN4yoWdKVe-n0Lj6/view?usp=share_link)
 
-- ⚡ Fun fact **I am Gamer**
+- ⚡ Fun fact **I am Pro Gamer**
 
 </div>
 <br>
