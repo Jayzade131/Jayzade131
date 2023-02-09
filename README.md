@@ -4,6 +4,8 @@
 <a href="#" align="center">
 <img src="https://readme-typing-svg.herokuapp.com?color=FFF&center=true&lines=Full+Stack+Java+Developer+From+India"></img>
 </a>
+
+
      </div>
      
 <br/>
@@ -56,7 +58,11 @@
  </div>
 
 <br>
-<div align= "center"><p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jayzade131&" alt="jayzade131" /></p></div><br>
+<div align= "center"><p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jayzade131&show_icons=true&count_private=true&theme=dark&currStreakLabel=118DFF&" alt="jayzade131" /></p>
+
+
+
+</div><br>
 <div>
 <p align= "center"><img src="https://github-readme-stats.vercel.app/api?username=jayzade131&show_icons=true&locale=en" alt="jayzade131" /></p><br>
 
