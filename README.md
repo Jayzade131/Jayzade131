@@ -59,8 +59,13 @@
 <div align= "center"><p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jayzade131&" alt="jayzade131" /></p></div><br>
 <div>
 <p align= "center"><img src="https://github-readme-stats.vercel.app/api?username=jayzade131&show_icons=true&locale=en" alt="jayzade131" /></p><br>
-<p align= "center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=jayzade131&show_icons=true&locale=en&layout=compact" alt="jayzade131" /></p></div>
+
+
+<p align="center">
+<a href="https://github.com/Jayzade131/github-readme-stats"><img alt="Jaykumar zade's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jayzade131&langs_count=8&count_private=true&layout=compact&theme=transparent&border_color=f5f2d0&title_color=118DFF&text_color=f5f2d0&border_radius=5"/></a>
+</p>
+</div>
 <br/><br/>
 <!--
-<a href="https://github.com/Jayzade131/github-readme-activity-graph"><img alt="Jaykumar zade's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Jayzade131&bg_color=FFFFFF&color=118DFF&line=118DFF&point=118DFF&hide_border=true" /></a>
+<a href="https://github.com/Jayzade131/github-readme-activity-graph"><img alt="Jaykumar zade's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Jayzade131&bg_color=FFFFFF&color=118DFF&line=118DFF&point=313639&hide_border=true" /></a>
 -->
