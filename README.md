@@ -64,7 +64,7 @@
 
 </div><br>
 <div>
-<p align= "center"><img src="https://github-readme-stats.vercel.app/api?username=jayzade131&show_icons=true&locale=en" alt="jayzade131" /></p><br>
+<p align= "center"><img src="https://github-readme-stats.vercel.app/api?username=jayzade131&langs_count=8&count_private=true&layout=compact&theme=transparent&border_color=f5f2d0&title_color=118DFF&text_color=e6d9c8&border_radius=5" alt="jayzade131" /></p><br>
 
 
 <p align="center">
