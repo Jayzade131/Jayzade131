@@ -72,9 +72,10 @@
 </p>
 </div>
 <br/><br/>
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ayushkhodankar&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jayzade131&theme=github_dark)
 </div>
 
-<p dir="auto">Leave a <g-emoji class="g-emoji" alias="star" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2b50.png">⭐</g-emoji> to <a href="https://github.com/Ayushkhodankar/Ayushkhodankar">this repository</a> ,if you like. <g-emoji class="g-emoji" alias="grin" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f601.png">😁</g-emoji></p>
+<p dir="auto">Leave a <g-emoji class="g-emoji" alias="star" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2b50.png">⭐</g-emoji> to <a href="https://github.com/Jayzade131/Jayzade131">this repository</a> ,if you like. <g-emoji class="g-emoji" alias="grin" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f601.png">😁</g-emoji></p>
+
 <!-- <a href="https://github.com/Jayzade131/github-readme-activity-graph"><img alt="Jaykumar zade's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Jayzade131&bg_color=FFFFFF&color=118DFF&line=118DFF&point=313639&hide_border=true" /></a> -->
 
