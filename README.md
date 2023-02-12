@@ -71,10 +71,5 @@
 <a href="https://github.com/Jayzade131/github-readme-stats"><img alt="Jaykumar zade's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jayzade131&langs_count=8&count_private=true&layout=compact&theme=transparent&border_color=f5f2d0&title_color=118DFF&text_color=f5f2d0&border_radius=5"/></a>
 </p>
 </div>
-<br/><br/>
-
-
-![GitHub Contributions Calendar](https://img.shields.io/static/v1?label=GitHub&message=Contributions&color=yellow&logo=github)
-
-![GitHub Activity Feed](https://github.com/Jayzade131/repository/activity)
+<br/>
 
