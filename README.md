@@ -76,4 +76,5 @@
 
 ![GitHub Contributions Calendar](https://img.shields.io/static/v1?label=GitHub&message=Contributions&color=yellow&logo=github)
 
+![GitHub Activity Feed](https://github.com/Jayzade131/repository/activity)
 
