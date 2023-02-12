@@ -74,5 +74,5 @@
 <br/><br/>
 
 
-<a href="https://github.com/Jayzade131/github-readme-activity-graph"><img alt="Jaykumar zade's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Jayzade131&bg_color=FFFFFF&color=118DFF&line=118DFF&point=313639&hide_border=true" /></a> 
+
 
