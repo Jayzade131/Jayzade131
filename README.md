@@ -37,10 +37,11 @@
 <div>
 <h2 align="center">Connect with me:</h2>
 <p align="center">
-<a href="https://twitter.com/jay_zade" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jay_zade" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/jaykumar01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jaykumar01" height="30" width="40" /></a>
-<a href="https://instagram.com/slayerrr_____" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="slayerrr_____" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/jaykumarzade" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="jaykumarzade" height="30" width="40" /></a>
+<a href="https://twitter.com/jay_zade" target="blank"><img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="jay_zade"  /></a>
+<a href="https://linkedin.com/in/jaykumar01" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white" alt="jaykumar01"  /></a>
+<a href="https://instagram.com/slayerrr_____" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="slayerrr_____"  /></a>
+<a href="https://www.hackerrank.com/jaykumarzade" target="blank"><img align="center" src="https://img.shields.io/badge/HackerRank-00EA64.svg?style=for-the-badge&logo=HackerRank&logoColor=white" alt="jaykumarzade"  /></a>
+     <a href="https://github.com/Jayzade131" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white" alt="Github"  /></a>
 </p>
 <br>
 
