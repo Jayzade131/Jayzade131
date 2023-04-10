@@ -18,9 +18,9 @@
      
 <div>
 
-- 🔭 I’m currently working on [JSP & Servlet](git@github.com:Jayzade131/Basic-Banking-System-The-Spark-Foundation.git)
+- 🔭 I’m currently working on [Hibernate & Spring]
 
-- 🌱 I’m currently learning **Spring**
+- 🌱 I’m currently learning **Spring Framework**
 
 - 👯 I’m looking to collaborate on **Open Source Projects**
 
