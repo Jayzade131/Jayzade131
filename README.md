@@ -18,7 +18,7 @@
      
 <div>
 
-- 🔭 I’m currently working on [Hibernate & Spring]
+- 🔭 I’m currently working on **Hibernate & Spring**
 
 - 🌱 I’m currently learning **Spring Framework**
 
