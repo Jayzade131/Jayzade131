@@ -18,9 +18,9 @@
      
 <div>
 
-- 🔭 I’m currently working on **Hibernate & Spring**
+- 🔭 I’m currently working on **SpringBoot**
 
-- 🌱 I’m currently learning **Spring Framework**
+- 🌱 I’m currently learning **Angular**
 
 - 👯 I’m looking to collaborate on **Open Source Projects**
 
