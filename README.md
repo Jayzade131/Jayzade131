@@ -63,21 +63,6 @@
 <br>
 <hr>
 <div align="center">
-     
-## 📊 My Github Stats
-     
- </div>
-
-<br>
-<div align= "center"><p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jayzade131&show_icons=true&count_private=true&theme=dark&currStreakLabel=118DFF&" alt="jayzade131" /></p>
-
-
-
-</div><br>
-<div>
-<p align= "center"><img src="https://github-readme-stats.vercel.app/api?username=jayzade131&langs_count=8&count_private=true&layout=compact&theme=transparent&border_color=f5f2d0&title_color=118DFF&text_color=e6d9c8&border_radius=5" alt="jayzade131" /></p><br>
-
-
 <p align="center">
 <a href="https://github.com/Jayzade131/github-readme-stats"><img alt="Jaykumar zade's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jayzade131&langs_count=8&count_private=true&layout=compact&theme=transparent&border_color=f5f2d0&title_color=118DFF&text_color=f5f2d0&border_radius=5"/></a>
  
