@@ -9,7 +9,7 @@
 <br/>
 
 <div>
-     <img align ="right" alt="developer" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtosKZrdy-PoE-BnSJ8-TL-0JK8eL2FEoSLQ&usqp=CAU" alt="jay">
+     <img align ="right" alt="developer" width="400" src="https://www.iventra.com/assets/images/bg/back-end-developer.gif" alt="jay">
      
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jayzade131&label=Profile%20views&color=0e75b6&style=flat" alt="jayzade131" /></p>
 <!--
