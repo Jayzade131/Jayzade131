@@ -9,7 +9,7 @@
 <br/>
 
 <div>
-     <img align ="right" alt="developer" width="400" src="https://www.iventra.com/assets/images/bg/back-end-developer.gif" alt="jay">
+     <img align ="right" alt="developer" width="400" src="https://img.etimg.com/thumb/width-1200,height-900,imgsize-638053,resizemode-75,msid-84146083/prime/technology-and-startups/booting-up-developer-economy-how-tech-startups-are-helping-coders-build-and-test-software-faster.jpg" alt="jay">
      
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jayzade131&label=Profile%20views&color=0e75b6&style=flat" alt="jayzade131" /></p>
 <!--
