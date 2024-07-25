@@ -2,7 +2,7 @@
 <h1 align="center">Hi , I'm Jaykumar zade <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="35"></h1>
 <div align= "center">
 <a href="#" align="center">
-<img src="https://readme-typing-svg.herokuapp.com?color=FFF&center=true&lines=Full+Stack+Java+Developer+From+India"></img>
+<img src="https://readme-typing-svg.herokuapp.com?color=FFF&center=true&lines=Java+Developer+From+India"></img>
 </a>
      </div>
      
