@@ -20,13 +20,9 @@
 
 - 🔭 I’m currently working on **SpringBoot**
 
-- 🌱 I’m currently learning **Angular**
-
 - 👯 I’m looking to collaborate on **Open Source Projects**
 
 - 📫 How to reach me **jaykumarzade@gmail.com**
-
-- 📄 Know about my experiences [Here](https://drive.google.com/file/d/1hhKgELmt6HkVlGxIS2Xo5gNFX1FigZ5_/view?usp=sharing)
 
 - ⚡ Fun fact **I am Pro Gamer**
 
@@ -39,7 +35,7 @@
 <p align="center">
 <a href="https://twitter.com/jay_zade" target="blank"><img align="center" src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="jay_zade"  /></a>
 <a href="https://linkedin.com/in/jaykumar01" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white" alt="jaykumar01"  /></a>
-<a href="https://instagram.com/slayerrr_____" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="hey.slayerrr"  /></a>
+<a href="https://instagram.com/ft.slayerrr" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="hey.slayerrr"  /></a>
 <a href="https://leetcode.com/jayzade/" target="blank"><img align="center" src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="jaykumarzade"  /></a>
      <a href="https://github.com/Jayzade131" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white" alt="Github"  /></a>
 </p>
